@@ -67,10 +67,10 @@ The project focuses on backend development, API design and database interaction.
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:andreiyatskovjr@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=YOUR_EMAIL@gmail.com" target="_blank">
     <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
+      src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Contact Me"
     />
   </a>
 </p>
