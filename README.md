@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Your Name
 
-### `Backend Developer` · `Go Developer` · `SQL Enthusiast`
+### `Backend Developer` · `Go Developer`
 
 <p align="center">
   <img
@@ -60,7 +60,7 @@ The project focuses on backend development, API design and database interaction.
 
 `Go` · `REST API` · `SQL` · `PostgreSQL` · `Docker`
 
-🔗 [View project](https://github.com/YOUR_USERNAME/Url-shortener-2)
+🔗 [View project](https://github.com/Utakatsukie/Url-Shortener-2.git)
 
 ---
 
