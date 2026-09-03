@@ -74,9 +74,3 @@ The project focuses on backend development, API design and database interaction.
     />
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>Building backend systems, one API at a time.</i> ⚙️
-</p>
