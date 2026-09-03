@@ -1,35 +1,61 @@
-# 👋 Hey, I'm Your Name
+# 👋 Hi, I'm Your Name
 
-### `Full-Stack Developer` · `Open Source Enthusiast` · `Problem Solver`
+### `Backend Developer` · `Go Enthusiast` · `SQL Lover`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+cool+things+with+code;Always+learning+something+new;Turning+ideas+into+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Go;Building+REST+APIs;Working+with+Databases;Learning+Something+New+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-```javascript
-const developer = {
-    name: "Your Name",
-    location: "🌍 Your City",
-    role: "Software Developer",
-    currentlyLearning: ["AI", "Cloud", "System Design"],
-    interests: ["Open Source", "Backend", "Automation"],
-    funFact: "I debug better with coffee ☕"
-};
-```
+I'm a **Backend Developer** focused on building reliable and scalable services with **Go**.
+
+* 🔹 Building backend applications and REST APIs
+* 🔹 Strong knowledge of **SQL**
+* 🔹 Working with **PostgreSQL** and **MySQL**
+* 🔹 Using **Docker** for development and deployment
+* 🔹 Some experience with **C++**
+* 🔹 Currently improving my backend architecture and system design skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+### Backend
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,cpp,docker,git,github,linux,postgres,mongodb,redis&perline=8" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=go,docker" />
 </p>
+
+### Databases & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+**REST API** · **SQL** · **PostgreSQL** · **MySQL**
+
+### Also Familiar With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,git,linux" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🔗 URL Shortener 2
+
+A backend service for shortening URLs, built with **Go** and a REST API.
+
+**Tech stack:**
+
+`Go` · `REST API` · `SQL` · `PostgreSQL` · `Docker`
+
+> 🔗 **Repository:** [Url-shortener-2](https://github.com/YOUR_USERNAME/Url-shortener-2)
 
 ---
 
@@ -42,14 +68,6 @@ const developer = {
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -58,36 +76,16 @@ const developer = {
 
 ---
 
-## 🌟 Featured Projects
-
-| Project             | Description                 | Tech                   |
-| ------------------- | --------------------------- | ---------------------- |
-| 🚀 **Project One**  | Something awesome I built   | `React` `Node.js`      |
-| 🤖 **Project Two**  | AI-powered project          | `Python` `AI`          |
-| ⚡ **Project Three** | Fast & scalable application | `Next.js` `PostgreSQL` |
-
----
-
-## 📫 Connect With Me
+## 📫 Contact
 
 <p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</p>
-
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  <i>Building backend systems, one API at a time.</i> ⚙️
 </p>
