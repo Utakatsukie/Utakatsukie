@@ -41,7 +41,7 @@ I'm a **Backend Developer** focused on building backend services with **Go**.
 ### Other
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp,git,github" />
 </p>
 
 **REST API** · **SQL**
