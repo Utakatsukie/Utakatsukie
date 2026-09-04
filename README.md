@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Utakatsukie (Andrei Yatskov)
+# Hi, I'm Utakatsukie (Andrei Yatskov)
 
 ### `Backend Developer` · `Go Developer`
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Backend Developer** focused on building backend services with **Go**.
 
@@ -24,7 +24,7 @@ I'm a **Backend Developer** focused on building backend services with **Go**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -48,7 +48,7 @@ I'm a **Backend Developer** focused on building backend services with **Go**.
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### 🔗 Url-shortener-2
 
@@ -64,7 +64,7 @@ The project focuses on backend development, API design and database interaction.
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=AndreiYatskovJR@gmail.com" target="_blank">
